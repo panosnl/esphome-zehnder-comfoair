@@ -23,7 +23,7 @@ packages:
     url: https://github.com/veenstrap/esphome-zehnder-comfoair
     refresh: 0s
     files: [ 
-      boards/esp32-eth0.yml,
+      boards/esp32-eth01.yml,
       packages/binary_sensors.yml,
       packages/board.yml,
       packages/button.yml,
