@@ -46,7 +46,7 @@ external_components:
   - components: [ zehnder_comfoair_q ]
     # uncomment for local dev
     # source: components
-    source: github://veenstrap/esphome-zehnder-comfoair@main
+    source: github://panosnl/esphome-zehnder-comfoair@main
     
 esphome:
   name: ${device_name}
